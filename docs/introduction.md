@@ -1,9 +1,10 @@
-# Introduction
+# PMO介绍
 
-**Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
+**PMO* 指项目组合、项目集或项目管理办公室.项目管理办公室（PMO）是一种管理结构，其对与项目相关的治理过程进行标准化，并促进资源、工具、方法论和技术共享。
+在不同组织之间、甚至在同一组织内部，PMO的特点和功能各不相同。
 
-![The Markdown Mark](images/markdown-red.png)  
-_Figure 1: The Markdown Mark_
+![PMO](images/markdown-red.png)  
+_Figure 1: PMO
 
 Some of the key benefits are:
 

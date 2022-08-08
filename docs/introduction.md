@@ -1,24 +1,26 @@
 # PMO介绍
 
-**PMO* 指项目组合、项目集或项目管理办公室.项目管理办公室（PMO）是一种管理结构，其对与项目相关的治理过程进行标准化，并促进资源、工具、方法论和技术共享。
-在不同组织之间、甚至在同一组织内部，PMO的特点和功能各不相同。
+**PMO* 指项目组合、项目集或项目管理办公室.项目管理办公室（PMO）是一种管理结构，其对与项目相关的治理过程进行标准化，并促进资源、工具、方法论和技术共享。在不同组织之间、甚至在同一组织内部，PMO的特点和功能各不相同。
 
 ![PMO](images/markdown-red.png)  
-_Figure 1: PMO
+图1: 项目管理办公室（PMO）
 
-Some of the key benefits are:
+PMO价值主张:
 
-1. Markdown is simple to learn, with minimal extra characters, so it's also quicker to write content.
-2. Less chance of errors when writing in markdown.
-3. Produces valid XHTML output.
-4. Keeps the content and the visual display separate, so you cannot mess up the look of your site.
-5. Write in any text editor or Markdown application you like.
-6. Markdown is a joy to use!
+1. 在进度、成本、质量、风险和其他方面改进项目管理.
+2. PMO在使工作与战略目标保持一致方面具有许多潜在角色.
+3. 争取干系人参与协作、培养人才以及实现项目投资的价值.
 
-John Gruber, the author of Markdown, puts it like this:
+PMO组织形式:
 
-> The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters, the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
-> -- <cite>John Gruber</cite>
+1. 提供项目管理指导，支持项目交付方式保持一致性.（ 提供良好的实践指南、模板和示例以及培训和教练。）
+2. 规划活动、风险管理、项目绩效跟踪和类似活动提供项目支持服务.（共享服务模式，对项目直接控制。）
+3. 成为部门或业务单元的一部分，监督项目的组合.（对项目集中化管理。）
+4. 企业级PMO（EPMO），将组织战略的实施与项目集和项目中交付结果、变更或产品的项目组合层投资联系起来.（成熟的PMO能力直接关联以实现组织战略和商业目标。）
+5. 扁平化结构、以客户为中心的举措和适应性交付方法的组织，如：敏捷卓越中心（ACoE）或价值交付办公室（VDO）结构.（ACoE/VDO充当着促进者的角色、而非管理或监督职能。侧重于教练团队，在整个组织内培养敏捷技能和能力，辅导发起人和产品负责人更有效地承担这些角色。）
+6. PMO可分为多个层级。（EPMOEPMO->PMO或VDO/ACoE）
+
+> -- <cite><项目管理知识体系 PMBOK指南 第七版></cite>
 
 
 Without further delay, let us go over the main elements of Markdown and what the resulting HTML looks like:
